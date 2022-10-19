@@ -1,5 +1,12 @@
 # goappone
- 
+INSTALATION:
+<ol>
+<li>Bual database samakan dengan yang ada di file .env</li>
+<li>docker compose up</li>
+<li>go run main.go migrate</li>
+<li>done</li>
+</ol>
+LINK VIDEO:https://www.loom.com/share/88b50e4e1b994ea7838710c732a24f1b
 ROUTE API:
 <ul> 
 <li>/user (METHOD GET) -> # FOR GET ALL USER</li>
