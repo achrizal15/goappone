@@ -1,0 +1,6 @@
+version: "3.7"
+services:
+  redisappone:
+    image:  redis:alpine
+    ports:
+      - 6379:6379
